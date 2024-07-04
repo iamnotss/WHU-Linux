@@ -1,0 +1,20 @@
+1.    # include<unistd.h>  
+2.    # include<stdlib.h>  
+3.    # include<stdio.h>  
+4.    # include<string.h>  
+5.      
+6.    void function(int a,int b,int c){  
+7.            char buffer[8];  //声明一个类型为char的数组
+8.            int *ret;    
+9.            ret=(int*)(buffer+16);  
+10.           (*ret)+=7;  
+11.    }  
+12.      
+13.    int main(){  
+14.       int x;  
+15.       x=99999;  
+16.       function(1,2,3);  
+17.       x=1;  
+18.       printf("%d\n",x);  
+19.       return 0; 
+20.    }  

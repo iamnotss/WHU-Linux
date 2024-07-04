@@ -1,0 +1,78 @@
+Wed Oct 25 17:07:27 2023
+: Key z pressed.
+Wed Oct 25 17:07:27 2023
+: Key x pressed.
+Wed Oct 25 17:07:27 2023
+: Key v pressed.
+Wed Oct 25 17:07:27 2023
+: Key c pressed.
+Wed Oct 25 17:07:28 2023
+: Key a pressed.
+Wed Oct 25 17:07:28 2023
+: Key u pressed.
+Wed Oct 25 17:07:28 2023
+: Key h pressed.
+Wed Oct 25 17:07:29 2023
+: Key | pressed.
+Wed Oct 25 17:07:29 2023
+: Key  !  pressed.
+Wed Oct 25 17:07:36 2023
+: Key [PageUp] pressed.
+Wed Oct 25 17:07:39 2023
+: Key  [PageDown] pressed.
+Wed Oct 25 17:07:41 2023
+: Key A pressed.
+Wed Oct 25 17:07:41 2023
+: Key V pressed.
+Wed Nov 15 16:18:06 2023
+: Key a pressed.
+Wed Nov 15 16:18:06 2023
+: Key s pressed.
+Wed Nov 15 16:18:07 2023
+: Key d pressed.
+Wed Nov 15 16:18:07 2023
+: Key d pressed.
+Wed Nov 15 16:18:08 2023
+: Key [Backspace] pressed.
+Wed Nov 15 16:18:08 2023
+: Key f pressed.
+Wed Nov 15 16:18:09 2023
+: Key g pressed.
+Wed Nov 15 16:18:10 2023
+: Key h pressed.
+Wed Nov 15 16:18:10 2023
+: Key | pressed.
+Wed Nov 15 16:18:11 2023
+: Key  !  pressed.
+Wed Nov 15 16:18:13 2023
+: Key | pressed.
+Wed Nov 15 16:18:13 2023
+: Key # pressed.
+Wed Nov 15 16:18:13 2023
+: Key @ pressed.
+Wed Nov 15 16:18:16 2023
+: Key | pressed.
+Wed Nov 15 16:18:16 2023
+: Key }[Enter] pressed.
+Wed Nov 15 16:18:20 2023
+: Key [F1] pressed.
+Wed Nov 15 16:18:20 2023
+: Key U pressed.
+Wed Nov 15 16:18:20 2023
+: Key D pressed.
+Wed Nov 15 16:18:21 2023
+: Key J pressed.
+Wed Nov 15 16:18:23 2023
+: Key [F1] pressed.
+Wed Nov 15 16:18:23 2023
+: Key | pressed.
+Wed Nov 15 16:18:24 2023
+: Key ^ pressed.
+Wed Nov 15 16:18:24 2023
+: Key [PageUp] pressed.
+Wed Nov 15 16:18:25 2023
+: Key  [PageDown] pressed.
+Wed Nov 15 16:18:29 2023
+: Key A pressed.
+Wed Nov 15 16:18:29 2023
+: Key V pressed.
